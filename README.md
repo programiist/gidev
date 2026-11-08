@@ -727,4 +727,3 @@
   if (!matchMedia('(prefers-reduced-motion: reduce)').matches) auto();
 </script>
 </body>
-</html>
